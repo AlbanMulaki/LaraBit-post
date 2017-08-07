@@ -1,9 +1,9 @@
 {
     "name": "larabit/post-article",
     "description": "Post Article Management",
-    "require": {
-        "laravel/laravel": "v5.4.*"
-    },
+#    "require": {
+#        "laravel/laravel": "v5.4.*"
+#    },
     "authors": [
         {
             "name": "Alban Mulaki",
