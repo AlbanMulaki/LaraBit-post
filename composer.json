@@ -1,0 +1,15 @@
+{
+    "name": "larabit/post-article",
+    "description": "Post Article Management",
+    "require": {
+        "php": "laravel/laravel"
+    },
+    "authors": [
+        {
+            "name": "Alban Mulaki",
+            "email": "alban.mulaki@gmail.com",
+            "homepage": "http://pragmaticlinux.org",
+            "role": "Admin"
+        }
+    ]
+}
