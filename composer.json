@@ -2,7 +2,7 @@
     "name": "larabit/post-article",
     "description": "Post Article Management",
     "require": {
-        "laravel/laravel": "5.4.*"
+        "laravel/laravel": "v5.4.*"
     },
     "authors": [
         {
