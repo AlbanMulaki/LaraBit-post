@@ -6,5 +6,5 @@
  * and open the template in the editor.
  */
 
-Route::get('/test1', 'Mulaki\Modules\Controllers\ModulesController@getIndex');
+Route::get('/test1', 'Larabit\PostArticle\Controllers\PostArticleController@getIndex');
 
