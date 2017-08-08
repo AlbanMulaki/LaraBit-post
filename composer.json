@@ -8,5 +8,10 @@
             "homepage": "http://pragmaticlinux.org",
             "role": "Admin"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Larabit\\PostArticle\\": "/"
+        }
+    }
 }
