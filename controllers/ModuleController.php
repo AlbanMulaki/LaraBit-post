@@ -8,11 +8,11 @@
  * @author Albert Mulaki <albertmulaki6@gmail.com>
  */
 
-namespace Mulaki\Modules\Controllers;
+namespace Larabit\PostArticle\Controllers;
 
 use App\Http\Controllers\Controller;
 
-class ModulesController extends Controller {
+class PostArticleController extends Controller {
 
     public function getIndex() {
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace Mulaki\Modules;
+namespace Larabit\PostArticle;
 
 use Illuminate\Support\ServiceProvider;
 
-class ModuleServiceProvider extends ServiceProvider {
+class PostArticleServiceProvider extends ServiceProvider {
 
-    private static $MODULE_NAME = "Module_name";
+    private static $MODULE_NAME = "postarticle";
 
     /**
      * Bootstrap the application services.
